@@ -1,0 +1,8 @@
+C:\Projects\S1128\bin\Debug\netstandard2.0\S1128.deps.json
+C:\Projects\S1128\bin\Debug\netstandard2.0\S1128.dll
+C:\Projects\S1128\bin\Debug\netstandard2.0\S1128.pdb
+C:\Projects\S1128\obj\Debug\netstandard2.0\S1128.csprojAssemblyReference.cache
+C:\Projects\S1128\obj\Debug\netstandard2.0\S1128.AssemblyInfoInputs.cache
+C:\Projects\S1128\obj\Debug\netstandard2.0\S1128.AssemblyInfo.cs
+C:\Projects\S1128\obj\Debug\netstandard2.0\S1128.dll
+C:\Projects\S1128\obj\Debug\netstandard2.0\S1128.pdb
